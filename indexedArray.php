@@ -3,7 +3,7 @@
         <body>
             <?php
             $month = array ('January','February','March','April','May','June','July','August','September',
-            'October','August','November','Disember');
+            'October','August','November','December');
             $len = count($month);
             foreach ($month as $item)
             {
